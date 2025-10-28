@@ -1,0 +1,7 @@
+torch
+transformers
+diffusers
+accelerate
+opencv-python-headless
+gradio
+python-dotenv
